@@ -8,6 +8,6 @@
 <p>Decided to make a directory walker that outputs an Excel document of contents of a plex server (Or any folder honestly). One of the first times I played with GUIs in JAVA and made this app to practice.</p>
 
 <p>Technologies</p>
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA Badge"/>
 </div>
 
